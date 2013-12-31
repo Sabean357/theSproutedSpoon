@@ -1,0 +1,24 @@
+
+.header td {
+	width: 10%;text-align:center;
+}
+
+.header tr {
+	 background-color: #710008;
+}
+
+.header a:link {
+	color:#77A238; text-decoration:none; background-color:#710008; font-family:Calibri; font-size:20; font-weight:bold; 
+}      /* unvisited link */
+
+.header a:visited {
+	color:#77A238; text-decoration:none; background-color:#710008; font-family:Calibri;font-size:20; font-weight:bold; 
+}  /* visited link */
+
+.header a:hover {
+	color:white; text-decoration:none; background-color:#710008; font-family:Calibri;font-size:20; font-weight:bold; 
+}  /* mouse over link */
+
+.header a:active {
+	color:white; text-decoration:none; background-color:#710008; font-family:Calibri;font-size:20; font-weight:bold; 
+}  /* selected link */
